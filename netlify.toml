@@ -1,2 +1,2 @@
 [template.environment]
-DATABASE_URL = "Database URL"
+DATABASE_URL = "mysql://94pn4anrjvrc:pscale_pw_gUOAPxco2ymO1uIDWUpX-3h1mjG7gAvZIDo1g7EFXlE@wr0eb5pn0jre.us-east-3.psdb.cloud/next-test?sslaccept=strict"
